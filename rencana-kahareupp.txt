@@ -1,0 +1,13 @@
+- belajar bahasa pemrograman back end
+    *php
+    *node js
+- belajar bahasa pemrograman frontend
+    *html
+    *css
+    *js
+-belajar framework backend
+    *laravel
+-belajar framework frontend
+    *bootstrap
+-belajar database
+    *mysql
